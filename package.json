@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "ava": "^0.18.0"
+    "ava": "^0.18.2"
   },
   "scripts": {
   	"test": "ava"
